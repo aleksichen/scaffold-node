@@ -1,7 +1,6 @@
 # scaffold-node
-My scaffold for nodejs using koa, babel, angular, webpack,nodemon, es6
 
-It is built on [Koa](https://github.com/koajs/koa) using [Angular](https://github.com/angular/angular.js) 
+My scaffold for nodejs is built on [Koa](https://github.com/koajs/koa) using [Angular](https://github.com/angular/angular.js) 
 and [ui-router](https://github.com/angular-ui/ui-router). It is developed with [webpack](http://webpack.github.io) and [nodemon](https://github.com/remy/nodemon) 
 and written with [babeljs](http://babeljs.io). 
 
