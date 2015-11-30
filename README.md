@@ -30,4 +30,4 @@ npm run prod    # then, run the production version
 then open [localhost:8080](http://localhost:8080).
 
 
-Good lucks!
+Good luck!
