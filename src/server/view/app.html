@@ -1,0 +1,18 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <title>My node scaffold</title>
+    <% css.forEach(function(href){ %>
+        <link rel="stylesheet" href="<%= href %>">
+    <% }) %>
+</head>
+
+<body>
+    <section ui-view></section>
+    <% script.forEach(function(src){ %>
+        <script src="<%= src %>"></script>
+    <% }) %>
+</body>
+
+</html>
